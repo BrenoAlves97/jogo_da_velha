@@ -13,8 +13,10 @@ O usuário poderá jogar contra outro jogador ou contra uma Inteligência Artifi
 - DOM
 
 # Deploy:
-
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/ec38c6db-b76b-4ed7-a24d-3463aebc1c71/deploy-status)](https://app.netlify.com/sites/hashgg/deploys)
+
+# Link: 
+- https://hashgg.netlify.app/
 
 # Layout inicial:
 
