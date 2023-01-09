@@ -1,7 +1,4 @@
-# jogo_da_velha 
-O usuário poderá jogar contra outro jogador ou contra uma Inteligência Artificial que foi implementada.
-
-# Projeto Jogo da velha  -  ![image](https://img.shields.io/badge/-concluded-green)
+# O Jogo da velha
 
 - É o conhecido jogo da velha, o usuário poderá jogar contra um outro player, ou até mesmo contra uma IA. 
 - Para o vencedor, será exibida uma mensagem de vitória e a alteração placar, em caso de empate será exibida a mensagem conhecida: deu velha!
